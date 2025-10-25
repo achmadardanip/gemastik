@@ -1,6 +1,6 @@
 # Core YOLO and Object Detection Frameworks
 ultralytics>=8.0.0
-super-gradients>=3.1.0
+super-gradients==3.7.1
 transformers>=4.30.0
 
 # Evaluation and Metrics
